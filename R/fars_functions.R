@@ -34,7 +34,7 @@ fars_read <- function(filename) {
 #' argumento con la forma "accident_<year>.csv.bz2". Requires un valor de entrada numerico o
 #' entero, de otra forma finaliza con un error.
 #'
-#' @param a?o Numerico o entero que indica el a?o del set de datos.
+#' @param año Numerico o entero que indica el año del set de datos.
 #'
 #' @return Returna un string de caracteres en el formato "accident_<year>.csv.bz2" que puede 
 #' ser usado como un nombre de archivo
@@ -48,14 +48,14 @@ make_filename <- function(year) {
         sprintf("accident_%d.csv.bz2", year)
 }
 
-#' Lee un archivo de accidentes para un mes y a?o
+#' Lee un archivo de accidentes para un mes y año
 #'
 #' @description
-#' La funcion acepta un vector o lista de a?os y retorna una lista de data
+#' La funcion acepta un vector o lista de años y retorna una lista de data
 #' frames con columnas MONTH y year basados en los datos del archivo  "accident_<year>.csv.bz2
 #' El archivo necesita estar ubicado en el directorio de trabajo.
 #'
-#' @param years Un vector o lista de a?os en formato numerico entero.
+#' @param years Un vector o lista de años en formato numerico entero.
 #'
 #' @return Retorna un alista de tibbles (data frames) con el mismo numero de filas
 #' que los datos en el archivo "accident_<year>.csv.bz2" y dos columnas- MONTH y
