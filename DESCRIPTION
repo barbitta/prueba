@@ -1,0 +1,20 @@
+Package: Prueba
+Title: Lee archivo CSV para facilitar analisis de datos FARS
+Version: 0.0.0.1
+Authors@R: person("Raul", "Barbitta", email = "raulbarbitta@gmail.com", role = c("aut", "cre"))
+Description: COURSERA: BUILDING R PACKAGES, Prueba 
+Depends: R (>= 3.3.3)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports:
+   dplyr,
+   maps,
+   readr,
+   tidyr,
+   magrittr
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
