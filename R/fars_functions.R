@@ -45,7 +45,7 @@ fars_read <- function(filename) {
 #' }
 make_filename <- function(year) {
         year <- as.integer(year)
-        sprintf("accident_%d.csv.bz2", year)
+        sprintf("./data/accident_%d.csv.bz2", year)
 }
 
 #' Lee un archivo de accidentes para un mes y año
