@@ -2,12 +2,12 @@
 % Please edit documentation in R/fars_functions.R
 \name{fars_read_years}
 \alias{fars_read_years}
-\title{Lee un archivo de accidentes para un mes y a?o}
+\title{Lee un archivo de accidentes para un mes y año}
 \usage{
 fars_read_years(years)
 }
 \arguments{
-\item{years}{Un vector o lista de a?os en formato numerico entero.}
+\item{years}{Un vector o lista de años en formato numerico entero.}
 }
 \value{
 Retorna un alista de tibbles (data frames) con el mismo numero de filas
@@ -15,7 +15,7 @@ que los datos en el archivo "accident_<year>.csv.bz2" y dos columnas- MONTH y
 year. Retorna NULL y un warning si el archivo no existe.
 }
 \description{
-La funcion acepta un vector o lista de a?os y retorna una lista de data
+La funcion acepta un vector o lista de años y retorna una lista de data
 frames con columnas MONTH y year basados en los datos del archivo  "accident_<year>.csv.bz2
 El archivo necesita estar ubicado en el directorio de trabajo.
 }

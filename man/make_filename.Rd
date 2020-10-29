@@ -7,7 +7,7 @@
 make_filename(year)
 }
 \arguments{
-\item{a?o}{Numerico o entero que indica el a?o del set de datos.}
+\item{año}{Numerico o entero que indica el año del set de datos.}
 }
 \value{
 Returna un string de caracteres en el formato "accident_<year>.csv.bz2" que puede 
