@@ -46,7 +46,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>FARS/Readme.md at master · barbitta/Prueba</title>
+  <title>Prueba/Readme.md at master · barbitta/Prueba</title>
     <meta name="description" content="COURSERA: BUILDING R PACKAGES,  Peer-graded Assignment - barbitta/Prueba">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -60,10 +60,10 @@
   
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/72668948/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MjY2ODk0OCwicyI6NjAyNDcxNDMyLCJjIjoyNjk4MjI0MjE3LCJ0IjoxNjA0MTczMTMxfQ==--2c2d75bc1e5ffb77dd86e1c3b3b49e97520ba796a7a08722f93db11ad9b140ca" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/72668948/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MjY2ODk0OCwicyI6NjAyNDcxNDMyLCJjIjoxODg1NjczMTkyLCJ0IjoxNjA0MTczNjg4fQ==--4c4728f17eb577f486d9211c76efec0bab7ace310d7cc1e96864297b27b3a8da" data-refresh-url="/_alive">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="DA10:2917:1C047C:29690D:5F9DBD34" data-pjax-transient="true" /><meta name="html-safe-nonce" content="3779bcbccbd3cf0b0488225e2524d5cde1c69b82bf8fa52ee7cf6352aa63ba20" data-pjax-transient="true" /><meta name="html-safe-nonce" content="41afb45aebfcfbea1ade3d187027d6d0168c4600" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9FbnJpcXVlUEgvRkFSUyIsInJlcXVlc3RfaWQiOiJEQTEwOjI5MTc6MUMwNDdDOjI5NjkwRDo1RjlEQkQzNCIsInZpc2l0b3JfaWQiOiI2NTkyODI4MTAxNTAzNDcwMTc1IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="f6b37c1fd9731e204b80e8aec9493da93726e7b4bcd10f5b2dd75aea54e210ee" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
+  <meta name="request-id" content="DE7E:1D7D:1D30F9:2B0903:5F9DBF74" data-pjax-transient="true" /><meta name="html-safe-nonce" content="3779bcbccbd3cf0b0488225e2524d5cde1c69b82bf8fa52ee7cf6352aa63ba20" data-pjax-transient="true" /><meta name="html-safe-nonce" content="41afb45aebfcfbea1ade3d187027d6d0168c4600" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9FbnJpcXVlUEgvRkFSUyIsInJlcXVlc3RfaWQiOiJERTdFOjFEN0Q6MUQzMEY5OjJCMDkwMzo1RjlEQkY3NCIsInZpc2l0b3JfaWQiOiI2NTkyODI4MTAxNTAzNDcwMTc1IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="3b18e4b62c247abe0514c65d5083731f34ea260b681779d88063b1cdc98751b1" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
 
     <meta name="hovercard-subject-tag" content="repository:91385465" data-pjax-transient>
 
@@ -107,14 +107,14 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YTAzMzI0Njk5YTYwYTkyMWUyMGY1YWViMDA4ZGI4ZDY2NjRmNmQ2N2U1MTJlODNmM2QwNDRjYjQyZjg4MTEwNXx7InJlbW90ZV9hZGRyZXNzIjoiMTY3LjYyLjIyNC4zNyIsInJlcXVlc3RfaWQiOiJEQTEwOjI5MTc6MUMwNDdDOjI5NjkwRDo1RjlEQkQzNCIsInRpbWVzdGFtcCI6MTYwNDE3MzEzMSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="MDlkZWMyZjM2OTA3NmIzMWIxMGYyYjQ1ODM3NzI2MTk5YmVhYjBjZWQ1ZjVlNzA3ZjMwOWNhZGQ4NzdmMGY5NXx7InJlbW90ZV9hZGRyZXNzIjoiMTY3LjYyLjIyNC4zNyIsInJlcXVlc3RfaWQiOiJERTdFOjFEN0Q6MUQzMEY5OjJCMDkwMzo1RjlEQkY3NCIsInRpbWVzdGFtcCI6MTYwNDE3MzY4OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
   <meta http-equiv="x-pjax-version" content="ac2396f76ced1049d94e340381a8b4c4abb514006d971dfe04dc23f51060308d">
   
 
-        <link href="https://github.com/barbitta/Prueba/commits/master.atom" rel="alternate" title="Recent Commits to FARS:master" type="application/atom+xml">
+        <link href="https://github.com/barbitta/Prueba/commits/master.atom" rel="alternate" title="Recent Commits to Prueba:master" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/barbitta/Prueba git https://github.com/barbitta/Prueba.git">
 
@@ -194,7 +194,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="FS+ob6lv9oDxltQ9StGZzERBLOHeiOHyNnMaMDv0HcT+uRjHMo2O2GuUpVI8VXwzmsKluFfGQQ1kRsEPiQvUAA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="4tZ7PQDLZK9E9M/QVP2eGf5kyWDqv6Q/oQVk1x0qLScJQMuVmykc9972vr8ieXvmIOdAOWPxBMDzML/or9Xk4w==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -345,7 +345,7 @@
       <img class="avatar avatar-user" src="https://avatars3.githubusercontent.com/u/72668948?s=40&amp;v=4" width="20" height="20" alt="@barbitta" />
       barbitta
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zTkH2DSXKdfeFBDLvGkCuYhaGCEKoD6FJsZI0lkjD7cGy0b7zg2S+LhejNFZgacvciaEE7ZH1ApXUHf+gdxPRw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WgJr36dsYVEsf1GpVoN/GN4xFoPL3RWK1ZzcljRLMiyR8Cr8Xfbafko1zbOza9qOJE2KsXc6/wWkCuO67LRy3A==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -365,7 +365,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
       
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzI2Njg5NDgiLCJ0IjoxNjA0MTczMTMxfQ==--ae9b065d6d22cb22a4593b42563a0654800e6f43e83c56e71bdff417acd4c462">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzI2Njg5NDgiLCJ0IjoxNjA0MTczNjg4fQ==--dc309c7795364f34a78e2f2e41d9838dcc713e757b7a7e971a5e104f8f2107cc">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -466,7 +466,7 @@
       </div>
     </summary>
     <details-dialog class="rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="8RKZNKAfcFf2YHJ9lCn37M8VbPIAq2b1ifzyWH1RD8SpaQLRIDOffxfRUgoi9pWhA7hNs4cFr6a5BK6oKDza0A==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="eBO4Y4uHO2iDTCHmtomHUk6RZ9uJeeKwMJX83cicY8QgaCOGC6vUQGL9AZEAVuUfgjxGmg7XK+MAbaAtnfG20A==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -584,17 +584,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-10-31T17:08:51-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-10-31T17:18:08-03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-10-31T17:38:51-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-10-31T17:48:08-03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-10-31T20:38:51-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-10-31T20:48:08-03:00">
             in 4 hours
           </button>
         </li>
@@ -667,12 +667,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;user_id&quot;:72668948}}" data-hydro-click-hmac="d10164ef6a303c4b8bc4d9119463ae7b9937f4801764931c433615d8228bc524" >Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;user_id&quot;:72668948}}" data-hydro-click-hmac="951c80756f53fd2b4767f40f49f4395f409b64cf658de8ae591a82a40ed9e5ba" >Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CWx2miyctVvzxQY5ypQSvss31nBp34d6kUEt5UHQFF3Cnje51gYOdJWPmiMvfLcoMUtKQtU4bfXg1xLJmS9UrQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xh0rzKqp4XPzXb8JwP+2cg0Bq2DIyjlPZMXVfgowrmQN72rvUDNaXJUXIxMlFxPk9303UnQt08AVU+pS0s/ulA==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;user_id&quot;:72668948}}" data-hydro-click-hmac="99751986ba073254fe33c850312f19d5d0829d01f7b04adc8b8fa95662f92356"  role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_6c4f" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1604173131950" class="form-control" /><input type="hidden" name="timestamp_secret" value="c4b023c23cd84fc8c15317293798443536448b30a415b45efa2cb7610dd6f7a1" class="form-control" />
+      <input type="text" name="required_field_667f" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1604173688166" class="form-control" /><input type="hidden" name="timestamp_secret" value="bdacd001b61fe2360731195646a619a2b5bd6ee0a0172682b2498b9558af5687" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -757,7 +757,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MBQyDgKSY6QCmBztQubfADY6O3eA1adK+r3bDMfomgL1VsSetEZ5kon4X9VgxtznbQ6v/fmkIC/wYpYulv5U6Q==" />      <input type="hidden" name="repository_id" value="91385465">
+            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6CQ9Cd6QHe3fnybvlkoYbibn8UF96+xCTdrDNtPB9dwtZsuZaEQH21T/Zde0ahuJfdNlywSaaydHBY4Ugtc7Nw==" />      <input type="hidden" name="repository_id" value="91385465">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
         <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:91385465,&quot;originating_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;user_id&quot;:72668948}}" data-hydro-click-hmac="47e5790759a2fa28521145269b366cb4becdc497d09f600bc2ccd7e9f951b502" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -832,7 +832,7 @@
 
   <li>
         <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/barbitta/Prueba/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7zWurduh/D3KqzDI4fh8856aMNu7Ol08FnN7V5vK7lHcB7pk1c8W57ZqfE/SoBffRIjotMTkWNtH4k/w1jHAxA==" />
+    <form class="starred js-social-form" action="/barbitta/Prueba/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DMOVpcDgR4PpswGPQFg6SMgNBY769ZRLV7O6PnzJn+w/8YFszo6tWZVyTQhzAFFkEh/d4YUrkawGIo6ZMTKxeQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar barbitta/Prueba" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:91385465,&quot;originating_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;user_id&quot;:72668948}}" data-hydro-click-hmac="3a0563cc613de30588095224ffe4b74e5777382809a0f7c15e2edace571eab48" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
@@ -841,7 +841,7 @@
            2
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/barbitta/Prueba/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lzmcDi7HHy9w237NHKnZbs5yG46wa/lgGKQXqfax75OZQDIWoT6a84/RxtCRN0ZRBuE099JjmP3OzckJymvE4Q==" />
+    <form class="unstarred js-social-form" action="/barbitta/Prueba/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pDolOxRFLgRyDb8HfSG0o424czNUpvqFetpopQOIUEqqQ4sjm7yr2I0HBxrwvyucRStcSjaumxiss7YFP1J7OA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star barbitta/Prueba" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:91385465,&quot;originating_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;user_id&quot;:72668948}}" data-hydro-click-hmac="893ed38a0bea268035bb6ef2bb8c8a6d29f66fa53ac215fecd15e789ddb857c9" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
@@ -854,7 +854,7 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/barbitta/Prueba/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="byVoQDTLYOjuHJTkShL+aKhp6syWp0K7WduQ6Mm0vqFGGp2XSeKbaBes0PlO5tY8KnZjIX7xGhblPnZwWZlkxg==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/barbitta/Prueba/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="73NbokE1dj41e0Lncv7qE1r82XHn0/YdhvljwPzo2/nGTK51PByNvszLBvp2CsJH2ONQnA+FrrA6HIVYbMUBng==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:91385465,&quot;originating_url&quot;:&quot;https://github.com/barbitta/Prueba/blob/master/Readme.md&quot;,&quot;user_id&quot;:72668948}}" data-hydro-click-hmac="7b8288002a6a694986f84c5e00681a3fae62f33f0a59f12d2d0d143183638a75" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of barbitta/Prueba to your account" aria-label="Fork your own copy of barbitta/Prueba to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
@@ -1090,13 +1090,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/barbitta/Prueba/edit/master/Readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cVMvYYCgMyqLW1pEAFEiHzjEKBUJqs8dsNX/P2zZrWHtb2SZNNnkq7VYbh46Q1jKNbhZOpsmCOWjU2Bcs6C+bg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/barbitta/Prueba/edit/master/Readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oK78NPcE/Eh6f4V4F4yfG1YZZDiy2AuJHpe7ZOODEKk8krfMQ30ryUR8sSItnuXOW2UVFyBUzHENESQHPPoDpg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/barbitta/Prueba/delete/master/Readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Eej2gXZXDG/8IWUoB3BiyJVhiRHHQapuSbcILGIF0l+PG9aPvG0lt893cfmIOoEM1SApYKKKecMLn+6123SSVQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/barbitta/Prueba/delete/master/Readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rEz34ie1vtM0KIeWSfcbVRTEIhsHYUei5KzY8RFaIssyv9fs7Y+XCwd+k0fGvfiRVIWCamKqlA+mhD5oqCtiwQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1110,15 +1110,15 @@
     <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-coursera-building-r-packages" class="anchor" aria-hidden="true" href="#coursera-building-r-packages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>COURSERA: BUILDING R PACKAGES</h1>
 <p>Peer-graded Assignment<br>
 Raúl Barbitta<br>
-email: <a href="mailto:eph.project1500@gmail.com">raulbarbitta@gmail.com</a><br>
+email: <a href="mailto:raulbarbitta@gmail.com">raulbarbitta@gmail.com</a><br>
 GNU GENERAL PUBLIC LICENSE Version 3, 31 October 2020</p>
 <p><a href="https://travis-ci.org/barbitta/Prueba" rel="nofollow"><img src="https://camo.githubusercontent.com/6f3a1794e378b01d50a7163717c471b555d7448e/68747470733a2f2f7472617669732d63692e6f72672f456e726971756550482f464152532e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://travis-ci.org/barbitta/Prueba.svg?branch=master" style="max-width:100%;"></a> <a href="https://ci.appveyor.com/project/barbitta/Prueba" rel="nofollow"><img src="https://camo.githubusercontent.com/e4c179b1b8c81f2cd3af235c813cc7d3c982d539/68747470733a2f2f63692e6170707665796f722e636f6d2f6170692f70726f6a656374732f7374617475732f6769746875622f456e726971756550482f464152533f6272616e63683d6d6173746572267376673d74727565" alt="AppVeyor Build Status" data-canonical-src="https://ci.appveyor.com/api/projects/status/github/barbitta/Prueba?branch=master&amp;svg=true" style="max-width:100%;"></a></p>
 <h2><a id="user-content-create-an-example-package-in-r" class="anchor" aria-hidden="true" href="#create-an-example-package-in-r"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Create an Example Package in R</h2>
-<p>Package: fars
+<p>Package: Prueba
 GitHub:  <a href="https://github.com/barbitta/Prueba">https://github.com/barbitta/Prueba</a></p>
 <h2><a id="user-content-data-source" class="anchor" aria-hidden="true" href="#data-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data Source</h2>
 <p>The functions will be using data from the US National Highway Traffic Safety
-Administration's <a href="https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars" rel="nofollow">Fatality Analysis Reporting
+Administration's <a href="https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-Prueba" rel="nofollow">Fatality Analysis Reporting
 System</a>,
 which is a nationwide census providing the American public yearly data regarding
 fatal injuries suffered in motor vehicle traffic crashes.</p>
@@ -1131,7 +1131,7 @@ your package. This assessment will ask reviewers the following questions:</p>
 <a href="https://github.com/barbitta/Prueba/tree/master/man">man/</a> with directory
 corresponding documentation files?</li>
 <li>Does this package contain a
-<a href="https://github.com/barbitta/Prueba/blob/master/vignettes/fars.Rmd">vignette</a>
+<a href="https://github.com/barbitta/Prueba/blob/master/vignettes/Prueba.Rmd">vignette</a>
 which provides a meaningful description of the package and how it should be
 used?</li>
 <li>Does this package have at least one test included in the <a href="https://github.com/barbitta/Prueba/tree/master/tests/testthat">tests/</a> directory?</li>
