@@ -1,5 +1,5 @@
 library(testthat)
-library(fars)
+library(Prueba)
 
 test_check("Prueba")
 
